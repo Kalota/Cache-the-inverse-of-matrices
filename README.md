@@ -1,6 +1,6 @@
 # Cache-the-inverse-of-matrices
-### This programming assignment consists in writing an R
-function that is able to cache the inverse of a matrix, which is a potentially 
+### This programming assignment consists in writing an R function 
+that is able to cache the inverse of a matrix, which is a potentially 
 time-consuming computation.If the contents of a vector are not changing, 
 it may make sense to cache the value of the inverse matrices so that when we need 
 it again, it can be looked up in the cache rather than recomputed. 
